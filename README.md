@@ -15,10 +15,10 @@ Survey data collected across 15 local government areas (LGAs) in Kano State. The
 - Interactive dashboard built in Power BI
 
 ## Key Findings
-- An estimated **TOTAL NUMBER** out-of-school children were identified across the 15 surveyed LGAs.
-- Gender split: **X% girls / Y% boys**.
-- The LGAs with the highest numbers are **LGA 1, LGA 2 and LGA 3**.
-- FINDING 4 (for example, the main reason children are out of school).
+- An estimated **341,000 out-of-school children** were identified across the **15 surveyed LGAs** (out of Kano's 44).
+- **Girls make up 52.8%** of out-of-school children (about 180,000 girls vs 161,000 boys), a gap of roughly 19,000.
+- **Doguwa has the most out-of-school children** (about 45,000, or 13.2% of the total), followed by **Warawa** (32,000) and **Gaya** (28,000). Together these three LGAs account for about **31%** of the total.
+- Girls outnumber boys in **11 of the 15 LGAs**; the largest gender gap is in Doguwa (about 5,000). Nasarawa, Dala, Gwale and Tarauni show an even split.
 
 ## Files
 - `kano_oosc_analysis.ipynb`: full analysis notebook
